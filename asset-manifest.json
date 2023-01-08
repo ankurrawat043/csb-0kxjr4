@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/main.7546d6f6.chunk.js",
+    "main.js.map": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/main.7546d6f6.chunk.js.map",
+    "runtime-main.js": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/runtime-main.62572bd4.js",
+    "runtime-main.js.map": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/runtime-main.62572bd4.js.map",
+    "static/js/2.b4b9fe3a.chunk.js": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/2.b4b9fe3a.chunk.js",
+    "static/js/2.b4b9fe3a.chunk.js.map": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/2.b4b9fe3a.chunk.js.map",
+    "index.html": "https://ankurrawat043.github.io/csb-0kxjr4/index.html",
+    "static/js/2.b4b9fe3a.chunk.js.LICENSE.txt": "https://ankurrawat043.github.io/csb-0kxjr4/static/js/2.b4b9fe3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62572bd4.js",
+    "static/js/2.b4b9fe3a.chunk.js",
+    "static/js/main.7546d6f6.chunk.js"
+  ]
+}
